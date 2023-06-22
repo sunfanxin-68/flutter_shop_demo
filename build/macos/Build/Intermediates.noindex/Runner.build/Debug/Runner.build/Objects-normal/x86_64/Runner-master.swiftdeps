@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4a483e85587440def0730b5aee527fabd0098549e694a24fb68d7312a3d4752f"
+build_start_time: [1687410903, 205540000]
+build_end_time: [1687410910, 353713000]
+inputs:
+  "/Users/sunfanxin/flutter_shop_demo/macos/Flutter/GeneratedPluginRegistrant.swift": [1687410883, 232481824]
+  "/Users/sunfanxin/flutter_shop_demo/macos/Runner/AppDelegate.swift": [1683677612, 0]
+  "/Users/sunfanxin/flutter_shop_demo/macos/Runner/MainFlutterWindow.swift": [1683677612, 0]
